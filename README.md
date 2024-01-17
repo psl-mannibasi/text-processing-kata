@@ -2,7 +2,7 @@
 ## Introduction
 As a developer that writes blog posts I want a tool that helps me better understand the text I am writing. For that I need a way to know the following:
 1. What are the most common words used in the text?
-2. How many characters does the text have?
+2. How many words does the text have?
 
 ### Challenge 1
 Given the following text:
