@@ -44,4 +44,4 @@ For example, given a total word count of 783 words:
 783 / 200 = 3.915 (3 minutes)
 .915 * 0.6 = .549 (55 seconds)
 ```
-So, the reading time in this instance would be **3 minutes 54 seconds**
+So, the reading time in this instance would be **3 minutes 55 seconds**
